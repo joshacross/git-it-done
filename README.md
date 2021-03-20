@@ -28,7 +28,7 @@ The following responsive-application allows the ability to search for open-sourc
 
 ### Website:
 
-<a href ="https://joshacross.github.io/git-it-done/">
+<a href ="https://joshacross.github.io/git-it-done/"> https://joshacross.github.io/git-it-done/ </a>
 
 ### Referenced Images
 
