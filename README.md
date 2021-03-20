@@ -26,10 +26,11 @@ The following responsive-application allows the ability to search for open-sourc
 
 * Used `document.location` object to read from a URL query string
 
-### Website: 
-`https://joshacross.github.io/git-it-done/`
+### Website:
+
+<a href ="https://joshacross.github.io/git-it-done/">
 
 ### Referenced Images
-`./assets/images/facebook-ss.png`
 
-`./assets/images/html-ss.png`
+<img src="./assets/images/facebook-ss.png" alt="image of the desktop app's username search using facebook">
+<img src="./assets/images/html-ss.png" alt="image of the desktop app's html search">
